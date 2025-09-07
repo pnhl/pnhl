@@ -1,4 +1,46 @@
-# Camera Gold APK - Release Information
+# Camera Gold APK - Release Inform## 💾 Cách tải xuống (Download Instructions)
+
+### 🌐 Tải từ GitHub Repository
+1. **Truy cập repository**: https://github.com/pnhl/pnhl
+2. **Tìm file APK**: Scroll xuống và tìm các file:
+   - `CameraGold-v1.1-Official.apk` ⭐ (KHUYẾN NGHỊ)
+   - `CameraGold-v1.0.apk`
+3. **Click để tải**: Click vào tên file APK
+4. **Download**: Click nút "Download" hoặc "View raw"
+
+### 📱 Cách cài đặt (Installation)
+1. **Bật Unknown Sources**: 
+   - Vào Settings → Security → Unknown Sources (cho phép cài app từ nguồn không xác định)
+   - Hoặc Settings → Apps → Special access → Install unknown apps
+2. **Tải file APK**: Download `CameraGold-v1.1-Official.apk` (41MB)
+3. **Cài đặt**: Mở file APK đã tải và nhấn "Install"
+4. **Mở ứng dụng**: Tìm "Camera Gold" trong app drawer và mở
+
+### 🔗 Direct Download Links
+```bash
+# Clone toàn bộ repository
+git clone https://github.com/pnhl/pnhl.git
+cd pnhl
+
+# Hoặc tải trực tiếp bằng wget/curl
+wget https://github.com/pnhl/pnhl/raw/main/CameraGold-v1.1-Official.apk
+
+# Tải bằng curl
+curl -L -O https://github.com/pnhl/pnhl/raw/main/CameraGold-v1.1-Official.apk
+```
+
+### 📱 Tải trên thiết bị di động
+1. **Mở browser** trên điện thoại Android
+2. **Truy cập**: https://github.com/pnhl/pnhl
+3. **Tìm file**: `CameraGold-v1.1-Official.apk`
+4. **Tap để tải**: File sẽ được download vào thư mục Downloads
+5. **Mở file**: Từ notification hoặc file manager → tap file APK
+
+### 💻 Tải trên máy tính rồi chuyển sang điện thoại
+1. **Tải APK** từ GitHub về máy tính
+2. **Kết nối điện thoại** với máy tính qua USB
+3. **Copy file APK** vào thư mục Downloads của điện thoại
+4. **Ngắt kết nối** và cài đặt APK trên điện thoại
 
 ## 📱 APK Releases
 
@@ -38,11 +80,28 @@
 3. Install the APK on your Android device
 4. Launch "Camera Gold" from your app drawer
 
-## 🔧 Technical Notes
-- Built using Flutter's stable channel
-- Optimized for release with --android-skip-build-dependency-validation
-- Compatible with Android 7.0+ devices
-- APK signed with debug keystore (for development purposes)
+## ⚠️ Lưu ý quan trọng (Important Notes)
+
+### 🔒 Bảo mật
+- APK này được build với **debug keystore** chỉ dành cho mục đích test/demo
+- **KHÔNG dành cho production** hoặc phân phối chính thức
+- Cần sign lại với production keystore để release lên Play Store
+
+### 📱 Yêu cầu hệ thống
+- **Android 7.0** (API level 24) trở lên
+- **RAM**: Tối thiểu 2GB khuyến nghị
+- **Storage**: 100MB trống để cài đặt
+- **Internet**: Cần kết nối để một số tính năng hoạt động
+
+### 🐛 Troubleshooting
+- **"App not installed"**: Kiểm tra Unknown Sources đã bật chưa
+- **"Parse error"**: File APK có thể bị lỗi, thử tải lại
+- **Crash khi mở**: Thiết bị có thể không tương thích, cần Android 7.0+
+
+### 📞 Hỗ trợ
+- Báo lỗi: Tạo issue trên GitHub repository
+- Góp ý: Comments trong repository
+- Phát triển: Fork repository và tạo pull request
 
 ## 🚀 Future Enhancements
 - Firebase integration for real-time features
