@@ -1,0 +1,12 @@
+# Cloudflare Pages Redirects
+
+# Redirect APK downloads to GitHub
+/download/v1.1   https://github.com/pnhl/pnhl/raw/main/CameraGold-v1.1-Official.apk   302
+/download/v1.0   https://github.com/pnhl/pnhl/raw/main/CameraGold-v1.0.apk   302
+/download        https://github.com/pnhl/pnhl/raw/main/CameraGold-v1.1-Official.apk   302
+
+# API redirects
+/api/*           https://github.com/pnhl/pnhl/:splat   302
+
+# Default fallback
+/*               /index.html   200
