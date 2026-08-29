@@ -1,33 +1,34 @@
 <div align="center">
 
-# 👋 Hi, I'm Phan Ngoc Hoang Long
+# 👋 Xin chào, mình là Phan Ngoc Hoang Long
 
 ### AI • Android • Automation • Telegram • Cloud
 
-[![GitHub followers](https://img.shields.io/github/followers/pnhl?style=for-the-badge&logo=github)](https://github.com/pnhl?tab=followers)
+[![GitHub](https://img.shields.io/badge/GitHub-pnhl-181717?style=for-the-badge&logo=github)](https://github.com/pnhl)
+[![Followers](https://img.shields.io/github/followers/pnhl?style=for-the-badge&logo=github)](https://github.com/pnhl?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=pnhl&style=for-the-badge)](https://github.com/pnhl)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 Giới thiệu
 
-I'm a developer from Vietnam interested in building practical products around **Artificial Intelligence, Android applications, automation, Telegram ecosystems, APIs, and cloud infrastructure**.
+Mình là một developer tại Việt Nam, tập trung vào việc xây dựng và thử nghiệm các sản phẩm liên quan đến **Artificial Intelligence, Android, automation, Telegram, backend API và cloud infrastructure**.
 
-I enjoy experimenting with open-source projects, integrating AI into real applications, building bots and backend services, and turning ideas into working prototypes.
+Mình đặc biệt thích biến ý tưởng thành các prototype có thể chạy thực tế, tích hợp nhiều dịch vụ với nhau và nghiên cứu các dự án mã nguồn mở để phát triển thành sản phẩm hoàn chỉnh hơn.
 
-- 🤖 Exploring **AI agents, LLMs, multimodal AI and automation**
-- 📱 Building and modifying **Android applications**
-- 💬 Developing **Telegram clients, bots and AI integrations**
-- ☁️ Working with **Docker, Render, VPS and cloud deployments**
-- 🔌 Interested in **APIs, backend systems and service integrations**
-- 🚗 Experimenting with **automotive software and Android Auto / head-unit projects**
-- 🧪 I like testing new technologies and open-source tools
+- 🤖 AI Agents, LLM, multimodal AI và AI automation
+- 📱 Android, Flutter và mobile application development
+- 💬 Telegram clients, TDLib, bots và AI integrations
+- 🚘 Android Auto, head-unit và automotive software
+- 🔌 Backend API, service integration và automation pipeline
+- ☁️ Docker, VPS, Render, cloud deployment và self-hosted services
+- 🧪 Thử nghiệm công nghệ mới và các dự án open-source
 
 ---
 
-## 🧰 Tech & Tools
+## 🧰 Tech Stack & Tools
 
 <div align="center">
 
@@ -38,8 +39,8 @@ I enjoy experimenting with open-source projects, integrating AI into real applic
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
@@ -50,31 +51,31 @@ I enjoy experimenting with open-source projects, integrating AI into real applic
 ## 🔥 Featured Projects
 
 ### 🚘 [Open Headunit](https://github.com/pnhl/open-headunit)
-Android Auto / head-unit experimentation and development.
+Dự án nghiên cứu và phát triển head-unit / Android Auto.
 
 ### 💬 [Telegram by Long](https://github.com/pnhl/Telegrambylong)
-Telegram-focused development and customization project.
+Dự án phát triển và tùy biến Telegram client.
 
 ### 🌐 [Holo Group Website](https://github.com/pnhl/holo-group-website)
-Web development project for the Holo ecosystem.
+Website và các thử nghiệm web thuộc hệ sinh thái Holo.
 
 ### 🛒 [Banhang](https://github.com/pnhl/banhang)
-A public project focused on commerce/application development.
+Dự án ứng dụng và hệ thống bán hàng.
 
 ### ⚙️ [ADX](https://github.com/pnhl/adx)
-Experimental software and development project.
+Dự án thử nghiệm phần mềm và các ý tưởng phát triển mới.
 
 ---
 
-## 🧠 Current Interests
+## 🧠 Lĩnh vực đang quan tâm
 
 ```text
 Artificial Intelligence
-├── LLM applications
-├── AI agents
-├── Multimodal systems
-├── AI automation
-└── API orchestration
+├── LLM Applications
+├── AI Agents
+├── Multimodal AI
+├── AI Automation
+└── API Orchestration
 
 Application Development
 ├── Android
@@ -88,12 +89,12 @@ Infrastructure
 ├── VPS / Cloud
 ├── Render
 ├── CI/CD
-└── Self-hosted services
+└── Self-hosted Services
 ```
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -108,19 +109,7 @@ Infrastructure
 
 ---
 
-## 🐍 Contribution Activity
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/pnhl/pnhl/output/github-contribution-grid-snake.svg)
-
-</div>
-
-> The snake animation requires a GitHub Actions workflow to generate the `output` branch asset.
-
----
-
-## 📫 Contact
+## 📫 Liên hệ
 
 <div align="center">
 
@@ -133,8 +122,8 @@ Infrastructure
 
 <div align="center">
 
-### 💡 Build • Experiment • Learn • Improve
+### Build • Experiment • Learn • Improve 🚀
 
-Thanks for visiting my profile! ⭐
+Cảm ơn bạn đã ghé thăm profile của mình! ⭐
 
 </div>
