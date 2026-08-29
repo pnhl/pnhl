@@ -56,9 +56,6 @@ Dự án nghiên cứu và phát triển head-unit / Android Auto.
 ### 💬 [Telegram by Long](https://github.com/pnhl/Telegrambylong)
 Dự án phát triển và tùy biến Telegram client.
 
-### 🌐 [Holo Group Website](https://github.com/pnhl/holo-group-website)
-Website và các thử nghiệm web thuộc hệ sinh thái Holo.
-
 ### 🛒 [Banhang](https://github.com/pnhl/banhang)
 Dự án ứng dụng và hệ thống bán hàng.
 
