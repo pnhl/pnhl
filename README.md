@@ -1,145 +1,140 @@
-# 📱 Camera Gold - Social Photo Sharing App
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android" alt="Android">
-  <img src="https://img.shields.io/badge/Framework-Flutter-blue?style=for-the-badge&logo=flutter" alt="Flutter">
-  <img src="https://img.shields.io/badge/Language-Dart-blue?style=for-the-badge&logo=dart" alt="Dart">
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License">
-</div>
 
-<div align="center">
-  <h3>🎨 Beautiful • 📱 Modern • 🚀 Fast</h3>
-  <p>A social photo sharing app built with Flutter featuring Material 3 design</p>
+# 👋 Hi, I'm Phan Ngoc Hoang Long
+
+### AI • Android • Automation • Telegram • Cloud
+
+[![GitHub followers](https://img.shields.io/github/followers/pnhl?style=for-the-badge&logo=github)](https://github.com/pnhl?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=pnhl&style=for-the-badge)](https://github.com/pnhl)
+
 </div>
 
 ---
 
-## 🚀 Quick Download
+## 🚀 About Me
+
+I'm a developer from Vietnam interested in building practical products around **Artificial Intelligence, Android applications, automation, Telegram ecosystems, APIs, and cloud infrastructure**.
+
+I enjoy experimenting with open-source projects, integrating AI into real applications, building bots and backend services, and turning ideas into working prototypes.
+
+- 🤖 Exploring **AI agents, LLMs, multimodal AI and automation**
+- 📱 Building and modifying **Android applications**
+- 💬 Developing **Telegram clients, bots and AI integrations**
+- ☁️ Working with **Docker, Render, VPS and cloud deployments**
+- 🔌 Interested in **APIs, backend systems and service integrations**
+- 🚗 Experimenting with **automotive software and Android Auto / head-unit projects**
+- 🧪 I like testing new technologies and open-source tools
+
+---
+
+## 🧰 Tech & Tools
 
 <div align="center">
-  
-  ### 📱 Latest Release
-  
-  [![Download APK](https://img.shields.io/badge/Download-APK%20v1.1-4CAF50?style=for-the-badge&logo=android)](https://github.com/pnhl/pnhl/releases/latest)
-  
-  [![Download v1.1 Official](https://custom-icon-badges.herokuapp.com/badge/-Download%20v1.1%20Official-orange?style=for-the-badge&logo=download&logoColor=white)](https://github.com/pnhl/pnhl/raw/main/CameraGold-v1.1-Official.apk)
-  [![Download v1.0](https://custom-icon-badges.herokuapp.com/badge/-Download%20v1.0-blue?style=for-the-badge&logo=download&logoColor=white)](https://github.com/pnhl/pnhl/raw/main/CameraGold-v1.0.apk)
-  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
 </div>
 
-## ✨ Features
+---
 
-- 📸 **Social Photo Sharing** - Share moments with friends and groups
-- 🎨 **Material 3 Design** - Beautiful amber-themed modern interface  
-- 📱 **Home Screen Widgets** - Quick access to app features
-- 👥 **Group Management** - Create and manage photo sharing groups
-- 🔔 **Push Notifications** - Stay updated with real-time alerts
-- 🌍 **Multi-language** - Vietnamese and English support
-- 📊 **Analytics** - Track your photo sharing activities
+## 🔥 Featured Projects
 
-## 📱 Screenshots
+### 🚘 [Open Headunit](https://github.com/pnhl/open-headunit)
+Android Auto / head-unit experimentation and development.
+
+### 💬 [Telegram by Long](https://github.com/pnhl/Telegrambylong)
+Telegram-focused development and customization project.
+
+### 🌐 [Holo Group Website](https://github.com/pnhl/holo-group-website)
+Web development project for the Holo ecosystem.
+
+### 🛒 [Banhang](https://github.com/pnhl/banhang)
+A public project focused on commerce/application development.
+
+### ⚙️ [ADX](https://github.com/pnhl/adx)
+Experimental software and development project.
+
+---
+
+## 🧠 Current Interests
+
+```text
+Artificial Intelligence
+├── LLM applications
+├── AI agents
+├── Multimodal systems
+├── AI automation
+└── API orchestration
+
+Application Development
+├── Android
+├── Flutter
+├── Telegram / TDLib
+├── Android Auto
+└── Backend APIs
+
+Infrastructure
+├── Docker
+├── VPS / Cloud
+├── Render
+├── CI/CD
+└── Self-hosted services
+```
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://via.placeholder.com/200x400/FFB347/333333?text=Home+Screen" alt="Home Screen" width="200">
-  <img src="https://via.placeholder.com/200x400/FFB347/333333?text=Photo+Feed" alt="Photo Feed" width="200">
-  <img src="https://via.placeholder.com/200x400/FFB347/333333?text=Camera+View" alt="Camera" width="200">
-  <img src="https://via.placeholder.com/200x400/FFB347/333333?text=Groups" alt="Groups" width="200">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pnhl&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnhl&layout=compact&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pnhl&hide_border=true" />
+
 </div>
 
-## 🔧 Technical Specifications
+---
 
-| Feature | Details |
-|---------|---------|
-| **Framework** | Flutter 3.35.3 |
-| **Language** | Dart 3.9.2 |
-| **Min Android** | 7.0 (API 24) |
-| **Target Android** | 14 (API 34) |
-| **Architecture** | ARM64, ARM32, x86_64 |
-| **Package Name** | `com.cameragold.app` |
-| **APK Size** | ~41 MB |
+## 🐍 Contribution Activity
 
-## 📦 Installation
+<div align="center">
 
-### Option 1: Direct Download
-1. Download APK from [Releases](https://github.com/pnhl/pnhl/releases)
-2. Enable "Unknown Sources" in Android Settings
-3. Install APK and launch Camera Gold
+![Snake animation](https://raw.githubusercontent.com/pnhl/pnhl/output/github-contribution-grid-snake.svg)
 
-### Option 2: Build from Source
-```bash
-# Clone repository
-git clone https://github.com/pnhl/pnhl.git
-cd pnhl/cameragold
+</div>
 
-# Install Flutter dependencies
-flutter pub get
+> The snake animation requires a GitHub Actions workflow to generate the `output` branch asset.
 
-# Build APK
-flutter build apk --release
-```
+---
 
-## 🛠️ Development
+## 📫 Contact
 
-### Prerequisites
-- Flutter SDK 3.35.3+
-- Android SDK 33+
-- Dart 3.9.2+
+<div align="center">
 
-### Setup
-```bash
-# Clone the repository
-git clone https://github.com/pnhl/pnhl.git
-cd pnhl
+[![GitHub](https://img.shields.io/badge/GitHub-pnhl-181717?style=for-the-badge&logo=github)](https://github.com/pnhl)
+[![Email](https://img.shields.io/badge/Email-contact.hlong1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.hlong1@gmail.com)
 
-# Install dependencies
-flutter pub get
-
-# Run the app
-flutter run
-```
-
-## 📋 Roadmap
-
-- [ ] 🔐 User authentication system
-- [ ] ☁️ Cloud storage integration
-- [ ] 🎥 Video sharing support
-- [ ] 🌙 Dark mode theme
-- [ ] 📍 Location-based photo sharing
-- [ ] 🎨 Advanced photo editing tools
-- [ ] 📱 iOS version
-- [ ] 🌐 Web version
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Support
-
-- 🐛 **Report bugs:** [GitHub Issues](https://github.com/pnhl/pnhl/issues)
-- 💬 **Discussions:** [GitHub Discussions](https://github.com/pnhl/pnhl/discussions)
-- 📧 **Email:** support@cameragold.app
-- 🌐 **Website:** [cameragold.app](https://pnhl.github.io/pnhl)
-
-## 📊 Statistics
-
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/pnhl/pnhl)
-![GitHub all releases](https://img.shields.io/github/downloads/pnhl/pnhl/total)
-![GitHub repo size](https://img.shields.io/github/repo-size/pnhl/pnhl)
-![GitHub last commit](https://img.shields.io/github/last-commit/pnhl/pnhl)
+</div>
 
 ---
 
 <div align="center">
-  <p>Made with ❤️ by the Camera Gold Team</p>
-  <p>© 2025 Camera Gold. All rights reserved.</p>
+
+### 💡 Build • Experiment • Learn • Improve
+
+Thanks for visiting my profile! ⭐
+
 </div>
